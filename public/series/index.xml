@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Raava</title>
-    <link>/series/</link>
+    <link>https://RaavaF.github.io/raava.dev/series/</link>
     <description>Recent content in Series on Raava</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://RaavaF.github.io/raava.dev/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

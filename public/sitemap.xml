@@ -3,15 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-  
+      <url>
+            <loc>https://RaavaF.github.io/raava.dev/projects/dotsy/</loc>
+            <lastmod>2023-04-15T01:46:33-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
       <url>
-            <loc>/</loc>
+            <loc>https://RaavaF.github.io/raava.dev/projects/</loc>
+            <lastmod>2023-04-15T01:46:33-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+      <url>
+            <loc>https://RaavaF.github.io/raava.dev/</loc>
+            <lastmod>2023-04-15T01:46:33-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://RaavaF.github.io/raava.dev/poems/</loc>
+            <lastmod>2023-04-12T02:50:14-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://RaavaF.github.io/raava.dev/poems/poetry_to_me/</loc>
+            <lastmod>2023-04-12T02:50:14-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://RaavaF.github.io/raava.dev/poems/alien_scrambled_eggs/</loc>
+            <lastmod>2022-01-19T01:01:22-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://RaavaF.github.io/raava.dev/poems/rock_babies/</loc>
+            <lastmod>2022-01-12T02:45:30-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
     
   
     

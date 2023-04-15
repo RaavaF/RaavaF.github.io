@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Raava</title>
-    <link>https://RaavaF.github.io/raava.dev/</link>
-    <description>Recent content on Raava</description>
+    <title>Poems on Raava</title>
+    <link>https://RaavaF.github.io/raava.dev/poems/</link>
+    <description>Recent content in Poems on Raava</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Apr 2023 01:46:33 -0400</lastBuildDate><atom:link href="https://RaavaF.github.io/raava.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dotsy</title>
-      <link>https://RaavaF.github.io/raava.dev/projects/dotsy/</link>
-      <pubDate>Sat, 15 Apr 2023 01:46:33 -0400</pubDate>
-      
-      <guid>https://RaavaF.github.io/raava.dev/projects/dotsy/</guid>
-      <description>A bot dedicated to looking at a dot # A while ago I decided to get back into programming.</description>
-      
-    </item>
-    
+    <lastBuildDate>Wed, 12 Apr 2023 02:50:14 -0400</lastBuildDate><atom:link href="https://RaavaF.github.io/raava.dev/poems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poetry to me [WIP]</title>
       <link>https://RaavaF.github.io/raava.dev/poems/poetry_to_me/</link>
@@ -24,7 +14,6 @@
       
       <guid>https://RaavaF.github.io/raava.dev/poems/poetry_to_me/</guid>
       <description>Poetry to me</description>
-      
     </item>
     
     <item>
@@ -34,7 +23,6 @@
       
       <guid>https://RaavaF.github.io/raava.dev/poems/alien_scrambled_eggs/</guid>
       <description>It&amp;rsquo;s no secret that Chef-O-&amp;lsquo;Merica,</description>
-      
     </item>
     
     <item>
@@ -44,7 +32,6 @@
       
       <guid>https://RaavaF.github.io/raava.dev/poems/rock_babies/</guid>
       <description>Humanity was forced underground.</description>
-      
     </item>
     
   </channel>
