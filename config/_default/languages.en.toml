@@ -7,7 +7,7 @@ rtl = false
 
 title = "Raava"
 logo = "tangerine.png"
-description = "Raava's Personal Website"
+description = "A personal website for a very personal person."
 # copyright = "Copy, _right?_ "
 
 dateFormat = "2 January 2006"
