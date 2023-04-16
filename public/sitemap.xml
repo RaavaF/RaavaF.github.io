@@ -4,8 +4,19 @@
   
     
       <url>
-            <loc>https://RaavaF.github.io/raava.dev/projects/</loc>
-            <lastmod>2023-04-15T15:29:40-04:00</lastmod>
+            <loc>https://RaavaF.github.io/raava.dev/poetry/competitive/2023-state-competition-winner/</loc>
+            <lastmod>2023-04-16T13:58:58-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://RaavaF.github.io/raava.dev/poetry/</loc>
+            <lastmod>2023-04-16T13:58:58-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -14,6 +25,17 @@
     
       <url>
             <loc>https://RaavaF.github.io/raava.dev/</loc>
+            <lastmod>2023-04-16T13:58:58-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://RaavaF.github.io/raava.dev/projects/</loc>
             <lastmod>2023-04-15T15:29:40-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -39,8 +61,10 @@
     
   
     
+  
+    
       <url>
-            <loc>https://RaavaF.github.io/raava.dev/poems/</loc>
+            <loc>https://RaavaF.github.io/raava.dev/poetry/poems/poetry_to_me/</loc>
             <lastmod>2023-04-12T02:50:14-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -48,17 +72,10 @@
     
   
     
-      <url>
-            <loc>https://RaavaF.github.io/raava.dev/poems/poetry_to_me/</loc>
-            <lastmod>2023-04-12T02:50:14-04:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
   
     
       <url>
-            <loc>https://RaavaF.github.io/raava.dev/poems/alien_scrambled_eggs/</loc>
+            <loc>https://RaavaF.github.io/raava.dev/poetry/poems/alien_scrambled_eggs/</loc>
             <lastmod>2022-01-19T01:01:22-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -67,13 +84,11 @@
   
     
       <url>
-            <loc>https://RaavaF.github.io/raava.dev/poems/rock_babies/</loc>
+            <loc>https://RaavaF.github.io/raava.dev/poetry/poems/rock_babies/</loc>
             <lastmod>2022-01-12T02:45:30-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     

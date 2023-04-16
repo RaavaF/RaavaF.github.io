@@ -6,7 +6,17 @@
     <description>Recent content on Raava</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Apr 2023 15:29:40 -0400</lastBuildDate><atom:link href="https://RaavaF.github.io/raava.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Apr 2023 13:58:58 -0400</lastBuildDate><atom:link href="https://RaavaF.github.io/raava.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 State Poetry Competition Winner</title>
+      <link>https://RaavaF.github.io/raava.dev/poetry/competitive/2023-state-competition-winner/</link>
+      <pubDate>Sun, 16 Apr 2023 13:58:58 -0400</pubDate>
+      
+      <guid>https://RaavaF.github.io/raava.dev/poetry/competitive/2023-state-competition-winner/</guid>
+      <description>The prize my team won at a state competition.</description>
+      
+    </item>
+    
     <item>
       <title>raava.dev</title>
       <link>https://RaavaF.github.io/raava.dev/projects/raava-website/</link>
@@ -28,31 +38,31 @@
     </item>
     
     <item>
-      <title>Poetry to me [WIP]</title>
-      <link>https://RaavaF.github.io/raava.dev/poems/poetry_to_me/</link>
+      <title>Poetry to me</title>
+      <link>https://RaavaF.github.io/raava.dev/poetry/poems/poetry_to_me/</link>
       <pubDate>Wed, 12 Apr 2023 02:50:14 -0400</pubDate>
       
-      <guid>https://RaavaF.github.io/raava.dev/poems/poetry_to_me/</guid>
+      <guid>https://RaavaF.github.io/raava.dev/poetry/poems/poetry_to_me/</guid>
       <description>Poetry to me</description>
       
     </item>
     
     <item>
       <title>Alien Scrambled Eggs</title>
-      <link>https://RaavaF.github.io/raava.dev/poems/alien_scrambled_eggs/</link>
+      <link>https://RaavaF.github.io/raava.dev/poetry/poems/alien_scrambled_eggs/</link>
       <pubDate>Wed, 19 Jan 2022 01:01:22 -0400</pubDate>
       
-      <guid>https://RaavaF.github.io/raava.dev/poems/alien_scrambled_eggs/</guid>
+      <guid>https://RaavaF.github.io/raava.dev/poetry/poems/alien_scrambled_eggs/</guid>
       <description>It&amp;rsquo;s no secret that Chef-O-&amp;lsquo;Merica,</description>
       
     </item>
     
     <item>
       <title>Rock Babies</title>
-      <link>https://RaavaF.github.io/raava.dev/poems/rock_babies/</link>
+      <link>https://RaavaF.github.io/raava.dev/poetry/poems/rock_babies/</link>
       <pubDate>Wed, 12 Jan 2022 02:45:30 -0400</pubDate>
       
-      <guid>https://RaavaF.github.io/raava.dev/poems/rock_babies/</guid>
+      <guid>https://RaavaF.github.io/raava.dev/poetry/poems/rock_babies/</guid>
       <description>Humanity was forced underground.</description>
       
     </item>

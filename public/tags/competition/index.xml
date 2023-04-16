@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Competition on Raava</title>
+    <link>https://RaavaF.github.io/raava.dev/tags/competition/</link>
+    <description>Recent content in Competition on Raava</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Apr 2023 13:58:58 -0400</lastBuildDate><atom:link href="https://RaavaF.github.io/raava.dev/tags/competition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 State Poetry Competition Winner</title>
+      <link>https://RaavaF.github.io/raava.dev/poetry/competitive/2023-state-competition-winner/</link>
+      <pubDate>Sun, 16 Apr 2023 13:58:58 -0400</pubDate>
+      
+      <guid>https://RaavaF.github.io/raava.dev/poetry/competitive/2023-state-competition-winner/</guid>
+      <description>The prize my team won at a state competition.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,7 +9,7 @@ colorScheme = "noir"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
-enableSearch = false
+enableSearch = true
 enableCodeCopy = false
 
 # mainSections = ["section1", "section2"]
@@ -65,7 +65,7 @@ disableImageOptimization = false
   invertPagination = false
   showReadingTime = false
   showTableOfContents = false
-  showTaxonomies = false
+  showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = true
   showSummary = true
