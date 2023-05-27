@@ -59,6 +59,6 @@ dateFormat = "2 January 2006"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/@AirventOS" },
 #     { ko-fi = "https://ko-fi.com/username" },
-     { link = "https://en.pronouns.page/@Raava" },
+#     { link = "https://google.com" },
    ]
    
