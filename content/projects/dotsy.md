@@ -17,4 +17,3 @@ By the way, the github embed links to a Revolt version of Dotsy. The Discord ver
 &nbsp;  
 &nbsp;  
 
-{{< github repo="RaavaF/Dotsy" >}}

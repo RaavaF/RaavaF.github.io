@@ -2,7 +2,6 @@
 title: "Rock Babies"
 date: 2022-01-12T02:45:30-04:00
 draft: false
-tags: [Poem]
 ---
 
 Humanity was forced underground.  

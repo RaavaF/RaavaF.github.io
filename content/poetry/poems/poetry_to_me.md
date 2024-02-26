@@ -1,8 +1,7 @@
 ---
-title: "Poetry to me"
+title: "Poetry to me [WIP]"
 date: 2023-04-12T02:50:14-04:00
 draft: false
-tags: ['Poem', 'WIP']
 ---
 
 

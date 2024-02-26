@@ -2,7 +2,6 @@
 title: "Alien Scrambled Eggs"
 date: 2022-01-19T01:01:22-04:00
 draft: false
-tags: [Poem]
 ---
 
 It's no secret that Chef-O-'Merica,  

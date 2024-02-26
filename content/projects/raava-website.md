@@ -15,4 +15,4 @@ Turns out you can create websites using static website generators and Markdown. 
 Regardless, I'm still new to web development, but it's better to start the fun then pretending you could.
 
 Cheers, Oranges.
-{{< github repo="RaavaF/RaavaF.github.io" >}}
+
